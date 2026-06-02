@@ -1,0 +1,30 @@
+
+> mtysun-advanced-website@1.0.0 dev
+> next dev
+
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3000
+
+ ✓ Starting...
+ ✓ Ready in 2.4s
+ ○ Compiling /admin ...
+ ✓ Compiled /admin in 2.2s (558 modules)
+ GET /admin 200 in 2047ms
+ GET /admin 200 in 2121ms
+ GET /en/contact 200 in 2623ms
+ ✓ Compiled /[locale]/about in 214ms (532 modules)
+ GET /en/about 200 in 702ms
+ ✓ Compiled /[locale] in 190ms (557 modules)
+ GET /favicon.ico 500 in 617ms
+ ✓ Compiled /[locale]/contact in 59ms (291 modules)
+ GET /favicon.ico 500 in 151ms
+ GET /favicon.ico 500 in 102ms
+ GET /favicon.ico 500 in 107ms
+ GET /favicon.ico 500 in 108ms
+ ✓ Compiled /[locale]/news in 225ms (569 modules)
+ GET /favicon.ico 500 in 154ms
+ GET /favicon.ico 500 in 107ms
+ ✓ Compiled /[locale]/products in 499ms (572 modules)
+ GET /en/products 200 in 955ms
+ ✓ Compiled /[locale] in 102ms (302 modules)
+ GET /favicon.ico 500 in 293ms
